@@ -1,0 +1,15 @@
+{
+  "name": "p5-express",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Creare unproyecto inicial para trabajar desde termux en android",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "author": "Moi\u001c~Rouhs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
