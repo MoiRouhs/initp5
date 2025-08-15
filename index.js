@@ -42,6 +42,7 @@ app.get('/', (req, res) => {
     <html>
     <head>
         <title>${titulo}</title>
+        <link rel="stylesheet" href="assets/style.css">
         ${libsScripts}
     </head>
     <body>
